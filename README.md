@@ -40,10 +40,11 @@ AS an avid reader I want to search for new books to read so that I can keep a li
 * THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
 ## Screenshots
-![alt tag]( "screenshot")
+![alt tag](https://user-images.githubusercontent.com/99215212/183957409-fa8eb1b1-71fa-48aa-b258-2371204f9007.png "screenshot")
 
 ## Links
 * https://github.com/lnbredemeyer/Book-Search-Engine-H21
+* https://mern-search-book-engine-h21.herokuapp.com
 
 ## Author
 Created by Leah Bredemeyer - I am a photographer, graphic designer, Director of Online Product and Website Management, and currently learning about coding in the UofA Full Stack Bootcamp. You can check out my GitHub projects here: https://github.com/lnbredemeyer
